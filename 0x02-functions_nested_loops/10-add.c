@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * add - add two intergers 
+ * add - add two intergers
  * @a: two interger arguments
  * @b: two interger arguments
  *
