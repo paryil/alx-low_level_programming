@@ -46,6 +46,5 @@ int main(void)
         printf("%d\n", index);
 	index = int_index(array, 20, is_strictly_positive);
         printf("%d\n", index);
-
 	return (0);
 }
