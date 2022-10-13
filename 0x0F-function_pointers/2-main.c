@@ -31,7 +31,6 @@ int abs_is_98(int elem)
     return (elem == 98 || -elem == 98);
 }
 
-
 /**
  * main - check the code
  * Return: Always 0.
