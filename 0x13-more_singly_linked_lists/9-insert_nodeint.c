@@ -30,7 +30,6 @@ if (prev != NULL)
 ptr->next = prev->next;
 prev->next = ptr;
 }
-
 else
 {
 ptr->next = NULL;
